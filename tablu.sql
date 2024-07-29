@@ -1,1 +1,1 @@
-select * from edwp
+select * from edwp.co_dim
